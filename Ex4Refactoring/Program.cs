@@ -4,6 +4,7 @@ namespace Ex4Refactoring
 {
     public class Program
     {
+        // Constantes:
         const string MsgWidthRetangle = "Introdueix l'amplada del rectangle:";
         const string MsgHeightRetangle = "Introdueix l'altura del rectangle:";
         const string MsgAreaResult = "L'àrea del rectangle és: ";
