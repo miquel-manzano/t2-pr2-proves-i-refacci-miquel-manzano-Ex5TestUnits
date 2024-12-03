@@ -4,7 +4,7 @@ public class Program
 {
     public static void Main(string[] args)
     {
-        // Sol·licita l'entrada de l'usuari per calcular l'àrea d'un rectangle
+        // Sol·licita l'entrada de l'usuari per calcular l'àrea d'un rectangla
         Console.WriteLine("Introdueix l'amplada del rectangle:");
         double width = Convert.ToDouble(Console.ReadLine());
         Console.WriteLine("Introdueix l'altura del rectangle:");
