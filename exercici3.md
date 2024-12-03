@@ -4,7 +4,7 @@ Por cada titulo ### are un corte, juntando los videos en post produccion
 
 ## Google slides:
 ### Slide 1
-Hola, me llamo Miquel Manzano i hoy voy a hacer un videotutorial sobre que significa la Integración Continua y el Despliegue Continuo, a mas de ver como aplicarlo en GitHub Actions en un entorno dotnet.
+Hola, me llamo Miquel i hoy voy a hacer un videotutorial sobre que significa la Integración Continua y el Despliegue Continuo, a mas de ver como aplicarlo en GitHub Actions en un entorno dotnet.
 
 
 Jaja broma inical (wrong slide) para que no se vea aburrido el video, mas visitas
@@ -26,9 +26,9 @@ Ahora veremos como aplicar un sistema de Integración Continua en GitHub con la 
 
 ## Tutorial GitHub Actions on dotnet
 ### Aclarimiento Documentacion
-Este tutorial se basa en la documentacion oficial de GitHub, podras encontrarla en la descripccion de este video, si me acuerdo, o en la bibliografia del repositorio de la practica.
+Este tutorial se basa en la documentacion oficial de GitHub que podras encontrarla en la descripccion de este video, si me acuerdo, o en la bibliografia del repositorio de la practica.
 
-Son estas paginas que seguiremos para realizar las pruebas:
+Estas son estas paginas que seguiremos para realizar las pruebas:
 
 https://docs.github.com/es/actions/writing-workflows/quickstart
 
