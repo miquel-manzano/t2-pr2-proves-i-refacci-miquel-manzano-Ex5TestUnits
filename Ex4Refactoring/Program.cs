@@ -2,6 +2,7 @@
 
 public class Program
 {
+    // Constantes:
     const string MsgWidthRetangle = "Introdueix l'amplada del rectangle:";
     const string MsgHeightRetangle = "Introdueix l'altura del rectangle:";
     const string MsgAreaResult = "L'àrea del rectangle és: ";
@@ -13,13 +14,15 @@ public class Program
     const string MsgAreaIsEqual = "L'àrea és entre 20 i 50";
     const string MsgAreaIsLower = "L'àrea és menor o igual a 20";
 
+    const string MsgInvalidNum = "Error, torna a provar: ";
+
     public static void Main(string[] args)
     {
         // Sol·licita l'entrada de l'usuari per calcular l'àrea d'un rectangle
         Console.WriteLine(MsgWidthRetangle);
-        double width = Convert.ToDouble(Console.ReadLine());
+        double width = UserNumIntput();
         Console.WriteLine(MsgHeightRetangle);
-        double height = Convert.ToDouble(Console.ReadLine());
+        double height = UserNumIntput();
 
         // Calcula l'àrea d'un rectangle
         double area = CalculateArea(width, height);
@@ -28,7 +31,7 @@ public class Program
 
         // Sol·licita l'entrada de l'usuari per calcular la circumferència d'un cercle
         Console.WriteLine(MsgRadiusCircle);
-        double radius = Convert.ToDouble(Console.ReadLine());
+        double radius = UserNumIntput();
 
         // Calcula circumferència d'un cercle
         double circumference = CalculateCircumference(radius);
@@ -64,6 +67,19 @@ public class Program
         {
             Console.WriteLine(MsgAreaIsLower);
         }
+    }
+
+    public static double UserNumIntput()
+    {
+        double userNum;
+        bool chekUserNum = double.TryParse(Console.ReadLine(), out userNum);
+
+        while (!chekUserNum)
+        {
+            Console.WriteLine(MsgInvalidNum);
+            chekUserNum = double.TryParse(Console.ReadLine(), out userNum);
+        }
+        return userNum;
     }
 
 }
