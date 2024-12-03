@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\theza\\Documents\\Programacio\\Workspace\\Ex4Refactoring\\Ex4Refactoring\\Ex4Refactoring.csproj",
+      "projectUniqueName": "C:\\Users\\theza\\Documents\\Programacio\\t2-pr2-proves-i-refacci-miquel-manzano\\Ex4Refactoring\\Ex4Refactoring.csproj",
       "projectName": "Ex4Refactoring",
-      "projectPath": "C:\\Users\\theza\\Documents\\Programacio\\Workspace\\Ex4Refactoring\\Ex4Refactoring\\Ex4Refactoring.csproj",
+      "projectPath": "C:\\Users\\theza\\Documents\\Programacio\\t2-pr2-proves-i-refacci-miquel-manzano\\Ex4Refactoring\\Ex4Refactoring.csproj",
       "packagesPath": "C:\\Users\\theza\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\theza\\Documents\\Programacio\\Workspace\\Ex4Refactoring\\Ex4Refactoring\\obj\\",
+      "outputPath": "C:\\Users\\theza\\Documents\\Programacio\\t2-pr2-proves-i-refacci-miquel-manzano\\Ex4Refactoring\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\theza\\AppData\\Roaming\\NuGet\\NuGet.Config",

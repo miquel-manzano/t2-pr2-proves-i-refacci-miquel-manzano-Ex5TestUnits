@@ -1,0 +1,15 @@
+C:\Users\theza\Documents\Programacio\t2-pr2-proves-i-refacci-miquel-manzano\Ex4Refactoring\bin\Debug\net8.0\Ex4Refactoring.exe
+C:\Users\theza\Documents\Programacio\t2-pr2-proves-i-refacci-miquel-manzano\Ex4Refactoring\bin\Debug\net8.0\Ex4Refactoring.deps.json
+C:\Users\theza\Documents\Programacio\t2-pr2-proves-i-refacci-miquel-manzano\Ex4Refactoring\bin\Debug\net8.0\Ex4Refactoring.runtimeconfig.json
+C:\Users\theza\Documents\Programacio\t2-pr2-proves-i-refacci-miquel-manzano\Ex4Refactoring\bin\Debug\net8.0\Ex4Refactoring.dll
+C:\Users\theza\Documents\Programacio\t2-pr2-proves-i-refacci-miquel-manzano\Ex4Refactoring\bin\Debug\net8.0\Ex4Refactoring.pdb
+C:\Users\theza\Documents\Programacio\t2-pr2-proves-i-refacci-miquel-manzano\Ex4Refactoring\obj\Debug\net8.0\Ex4Refactoring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\theza\Documents\Programacio\t2-pr2-proves-i-refacci-miquel-manzano\Ex4Refactoring\obj\Debug\net8.0\Ex4Refactoring.AssemblyInfoInputs.cache
+C:\Users\theza\Documents\Programacio\t2-pr2-proves-i-refacci-miquel-manzano\Ex4Refactoring\obj\Debug\net8.0\Ex4Refactoring.AssemblyInfo.cs
+C:\Users\theza\Documents\Programacio\t2-pr2-proves-i-refacci-miquel-manzano\Ex4Refactoring\obj\Debug\net8.0\Ex4Refactoring.csproj.CoreCompileInputs.cache
+C:\Users\theza\Documents\Programacio\t2-pr2-proves-i-refacci-miquel-manzano\Ex4Refactoring\obj\Debug\net8.0\Ex4Refactoring.sourcelink.json
+C:\Users\theza\Documents\Programacio\t2-pr2-proves-i-refacci-miquel-manzano\Ex4Refactoring\obj\Debug\net8.0\Ex4Refactoring.dll
+C:\Users\theza\Documents\Programacio\t2-pr2-proves-i-refacci-miquel-manzano\Ex4Refactoring\obj\Debug\net8.0\refint\Ex4Refactoring.dll
+C:\Users\theza\Documents\Programacio\t2-pr2-proves-i-refacci-miquel-manzano\Ex4Refactoring\obj\Debug\net8.0\Ex4Refactoring.pdb
+C:\Users\theza\Documents\Programacio\t2-pr2-proves-i-refacci-miquel-manzano\Ex4Refactoring\obj\Debug\net8.0\Ex4Refactoring.genruntimeconfig.cache
+C:\Users\theza\Documents\Programacio\t2-pr2-proves-i-refacci-miquel-manzano\Ex4Refactoring\obj\Debug\net8.0\ref\Ex4Refactoring.dll

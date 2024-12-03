@@ -10,18 +10,37 @@ public class Program
         Console.WriteLine("Introdueix l'altura del rectangle:");
         double height = Convert.ToDouble(Console.ReadLine());
 
-        // Calcula l'àrea
-        double area = width * height;
+        // Calcula l'àrea d'un rectangle
+        double area = CalculateArea(width, height);
         Console.WriteLine("L'àrea del rectangle és: " + area);
+
 
         // Sol·licita l'entrada de l'usuari per calcular la circumferència d'un cercle
         Console.WriteLine("Introdueix el radi del cercle:");
         double radius = Convert.ToDouble(Console.ReadLine());
-        double circumference = 2 * Math.PI * radius;
 
+        // Calcula circumferència d'un cercle
+        double circumference = CalculateCircumference(radius);
         Console.WriteLine("La circumferència del cercle és: " + circumference);
 
         // Imprimeix un missatge basat en el valor de l'àrea
+        PrintMsgArea(area); 
+    }
+
+
+    public static double CalculateArea(double width, double height)
+    {
+        return width * height;
+    }
+
+
+    public static double CalculateCircumference(double radius)
+    {
+        return 2 * Math.PI * radius;
+    }
+
+    public static void PrintMsgArea(double area)
+    {
         if (area > 50)
         {
             Console.WriteLine("L'àrea és més gran de 50");
@@ -35,4 +54,5 @@ public class Program
             Console.WriteLine("L'àrea és menor o igual a 20");
         }
     }
+
 }
