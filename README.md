@@ -12,6 +12,9 @@ N'hi ha una bibliografia al final de cada exercici amb la documentació o webs u
 - [Exercici 6](./Exercicis/exercici6.md)
 
 
+L'apartat dels exercicis 3 i 6 són el Guió que utilitzat per fer els vídeos, no ho demana la pràctica i no està molt net, ja que era suport pensat per a mi, però igualment pot fer una ullada, i veure com ho he plantejat.
+
+
 ## Videos:
 -  Exercici 3 --- [¿Que es la integración continua y el despliegue continuo? --- GitHub Actions Tutorial](https://www.youtube.com/watch?v=SaRQfWQr4bI&ab_channel=MiquelM.E.)
 
