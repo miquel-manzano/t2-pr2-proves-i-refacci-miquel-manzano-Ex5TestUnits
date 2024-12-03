@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ex4Refactoring")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a6ac249da5b95971c2945480d7e4397efda2fd51")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+018e923827ff398103a288cedf6572d2a483bec5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ex4Refactoring")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ex4Refactoring")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
