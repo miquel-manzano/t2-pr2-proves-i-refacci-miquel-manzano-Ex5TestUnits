@@ -18,3 +18,4 @@ https://www.guru99.com/es/best-static-code-analysis-tools.html
 https://go4it.solutions/es/blog/que-es-el-analisis-de-codigo-estatico (sobre los tipos) Not ia
 
 Luego le pedi un resumen del contenido de todas las paginas. crazy
+

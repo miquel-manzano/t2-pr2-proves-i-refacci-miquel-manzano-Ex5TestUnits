@@ -36,20 +36,15 @@ https://docs.github.com/en/actions/use-cases-and-examples/building-and-testing/b
 
 
 ### Que es necessario tener y saber
-Para este tutorial es necessario tener nociones basicas del uso de GitHub y haber echado un ojo a la documentacion relacionada con GitHub Actions, como minimo.
+Para este tutorial es necessario tener nociones basicas del uso de GitHub y haber echado un ojo a la documentacion relacionada con GitHub Actions start up
 Necessitarem tener creado un repositorio con nuestro projecto .NET, con sus test y cositas. -- enseñar fitxeros projecto mas recordar gitignore
 
 
 ### WorkFlow, que es, cual usar?
-Un WorKflow es el archivo de configuracion que usaremos para configurar nuestro CI adecuadamente, suelen ser fitxeros YAML o YML
-Si miramos la documentacion relacionada al GiHub Actions, podremos ver que tenemos una cantidad enorme de plantillas para varios lenguajes, a nosotros nos interesara este fitxero. ---- enseñar el fitxero dotnet.yaml duh hu
+Un WorKflow es el archivo de configuracion que usaremos para configurar nuestro GitHub actions adecuadamente, suelen ser fitxeros YAML o YML
+Si miramos la documentacion relacionada al GiHub Actions, podremos ver que tenemos una cantidad enorme de plantillas para varios lenguajes, nosotros usaremos el fitxero de ejemplo de la guia de inicio para ver como es su funcionamiento.
 
 pagina: https://github.com/actions/starter-workflows
 
 
-### Preguntar profe, forma compleja o facil
-facil: https://docs.github.com/es/actions/writing-workflows/quickstart
-
-compleja: https://docs.github.com/en/actions/use-cases-and-examples/building-and-testing/building-and-testing-net
-
-https://www.youtube.com/watch?v=g8tdrB3kbDU&ab_channel=CoderDave
+https://youtu.be/SaRQfWQr4bI

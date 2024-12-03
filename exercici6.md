@@ -10,7 +10,7 @@ Buenos dias, me llamo Miquel i en el video de hoy voy a hablar sobre los analiza
 Los analizadores de código son herramientas utilizadas para inspeccionar automáticamente el código fuente con el fin de mejorar la calidad, seguridad y eficiencia del software. Se utilizan principalmente para identificar errores, vulnerabilidades de seguridad, incumplimiento de estándares y otros, siendo esenciales para mantener estándares elevados en el desarrollo de software
 
 ### Slide 3
-Principalmente, tenemos dos tipos de analisis.. Análisis Estáticos, basado en flujos, basado en patrones, que inspeccionan el código sin ejecutarlo, enfocandose en sintaxis y logica, y luego tenemos los Análisis Dinámicos, que se realiza durante la ejecución del programa para encontrar problemas en tiempo real, enfocandose en fugas de memoria o errores de ejecución.
+Principalmente, tenemos dos tipos de analisis.. Análisis Estáticos, basado en flujos y patrones, que inspeccionan el código sin ejecutarlo, enfocandose en sintaxis y logica, y luego tenemos los Análisis Dinámicos, que se realiza durante la ejecución del programa para encontrar problemas en tiempo real, enfocandose en fugas de memoria o errores de ejecución.
 
 ### Slide 4
 Utilizando este tipo de software podemos ser mas agiles a la hora de escrivir codigo, ya que te corrige de forma automatica, ademas de aseguramos de no cometer errores graves. Dependiendo del analizador, tambien podremos disponer de informes detallados con nuestros defectos y possibles mejoras a tener encuenta... las possibilidades son infinitas!
@@ -45,3 +45,7 @@ Ahora llega la parte del video que digo que "yo no lo instalo porque ya lo insta
 Se nos descargara un zip, y solo tendremos que descomprimirlo en la carpeta donde queremos guardar nuestro programa, es portable.
 
 Al descomprimirlo iremos a la ruta del programa y buscaremos este fitxero .bat, y lo iniciamos, esto iniciara el programa SonarQube. :P
+
+
+
+https://youtu.be/SdzvS5T7z9M
