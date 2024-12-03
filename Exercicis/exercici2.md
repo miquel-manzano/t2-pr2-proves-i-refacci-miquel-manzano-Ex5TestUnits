@@ -8,3 +8,5 @@ Els dobles de prova (o test doubles en anglès) són objectes utilitzats en prov
 - Spies: Similar als mocks, però permeten inspeccionar les crides després de l'execució del codi.
 - Fakes: Implementacions simplificades de lògica que imiten el comportament d'objectes reals
 - Dummy Objects: Implementacions simplificades de lògica que imiten el comportament d'objectes reals.
+
+// podriamos entrar en mas detalle en los tipos y falta el ejemplo de uso en una solucion de C#

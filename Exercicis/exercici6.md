@@ -1,6 +1,6 @@
 # Guion
 
-Por cada titulo ### are un corte, juntando los videos en post produccion
+Link: https://youtu.be/SdzvS5T7z9M
 
 ## Google slides:
 ### Slide 1
@@ -31,7 +31,7 @@ https://docs.sonarsource.com/sonarqube-server/10.6/try-out-sonarqube/ Set Up Gui
 https://docs.sonarsource.com/sonarqube-server/10.6/analyzing-source-code/languages/csharp/ C# especifico
 
 
-### Instalacio y configuracio de programari
+### Instalacio y configuracio de programari --- Not working
 Siguiendo la documentacion oficial, ahora vamos a proceder con la instalacion de SonarQube, pero antes devemos de verificar si tenemos intalado Java 17, si no es el caso lo instalamos.
 
 Nosotros vamos a realizar una instalacion de una instancia local, pero tenemos la opcion de montar un servidor.
@@ -48,4 +48,3 @@ Al descomprimirlo iremos a la ruta del programa y buscaremos este fitxero .bat, 
 
 
 
-https://youtu.be/SdzvS5T7z9M

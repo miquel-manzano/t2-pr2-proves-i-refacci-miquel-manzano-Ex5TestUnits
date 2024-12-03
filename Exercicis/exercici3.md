@@ -1,6 +1,6 @@
 # Guion
 
-Por cada titulo ### are un corte, juntando los videos en post produccion
+Link: https://youtu.be/SaRQfWQr4bI
 
 ## Google slides:
 ### Slide 1
@@ -45,6 +45,3 @@ Un WorKflow es el archivo de configuracion que usaremos para configurar nuestro 
 Si miramos la documentacion relacionada al GiHub Actions, podremos ver que tenemos una cantidad enorme de plantillas para varios lenguajes, nosotros usaremos el fitxero de ejemplo de la guia de inicio para ver como es su funcionamiento.
 
 pagina: https://github.com/actions/starter-workflows
-
-
-https://youtu.be/SaRQfWQr4bI
